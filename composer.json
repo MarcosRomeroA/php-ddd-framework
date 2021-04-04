@@ -1,0 +1,14 @@
+{
+    "name": "marcos/php-ddd-framework",
+    "description": "A php framework with Domain Driven Development support",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "MarcosRomeroA",
+            "email": "marcos.andres.romero@gmail.com"
+        }
+    ],
+    "minimum-stability": "alpha",
+    "require": {}
+}
